@@ -1,0 +1,18 @@
+.navbar {
+
+    width: 100%;
+    padding: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.navbar a {
+    color: white;
+    font-size: 24px;
+}
+
+.navbar a.active {
+    color: blue
+}
